@@ -1,0 +1,4 @@
+#Thu Jun 13 15:35:54 IDT 2019
+base.0=C\:\\Users\\EB\\Documents\\Advanced\\2\\ex4\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

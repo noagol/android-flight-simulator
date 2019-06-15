@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flight Simulator</string>
+    <string name="ip_tv">IP:</string>
+    <string name="port_tv">Port:</string>
+    <string name="connect_btn">Connect</string>
+    <string name="no_ip">Please enter ip</string>
+    <string name="no_port">Please enter port</string>
+    <string name="bad_ip">Bad ip inserted</string>
+    <string name="bad_port">Bad port inserted</string>
+
+</resources>
